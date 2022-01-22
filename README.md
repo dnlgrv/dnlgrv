@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel.
 
-I'm a [product engineer][1], building software for the web.
+I'm a [product engineer][1], writing software for the web.
 
 My tools of choice for many years now have been [Ruby on Rails](https://rubyonrails.org) and
 [Elixir](https://elixir-lang.org).
