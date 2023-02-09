@@ -7,6 +7,6 @@ My tools of choice for many years now have been [Ruby on Rails](https://rubyonra
 
 I've worked at startups, agencies, incubators, and large organisations, both locally and remotely.
 
-If you'd like to reach out and chat I'm available on [Twitter](https://twitter.com/dnlgrv) or email at [dnlgrv@hey.com](mailto:dnlgrv@hey.com).
+If you'd like to reach out you can email me at [dnlgrv@hey.com](mailto:dnlgrv@hey.com).
 
 [1]: http://essays.davidchouinard.com/the-product-engineer
