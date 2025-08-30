@@ -1,7 +1,3 @@
 # 👋 Hi, I'm Daniel.
 
-I'm a programmer, writing software at [Litmus](https://www.litmus.com).
-
-I occassionally write things about programming and software at [dnlgrv.com](https://dnlgrv.com).
-
-If you'd like to reach out you can email me at [hey@dnlgrv.com](mailto:hey@dnlgrv.com).
+I'm a software engineer, currently working as a Principal Software Engineer at [Litmus](https://www.litmus.com).
